@@ -1,0 +1,28 @@
+/* Styles of toolbar */
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+mattoolbar{
+  color: black;
+}
+/* Styles of Card */
+.card {
+  max-width: 400px;
+  margin-top: 10px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
+
+/* Styles of List */
+.lista {
+  background-color: white;
+  max-width: 400px;
+  margin-top: 10px;
+}
